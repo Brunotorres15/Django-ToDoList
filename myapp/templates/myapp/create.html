@@ -3,12 +3,12 @@
 {% block title %} Create New List {% endblock %}
 
 {% block content %}
-<h3>Create To Do List</h3>
+<h3>Create your own To Do List</h3>
 <form method="post" action="/create/" class= "form-group">
     {% csrf_token %}
     <div class="input-group mb3">
         <div class="inout-group-prepend">
-        <button type="submit", name="save" class="btn btn-success">Create New</button>
+        <button type="submit", name="save" class="btn btn-success">Create</button>
       </div>
       {{form.name}}
     </div>
