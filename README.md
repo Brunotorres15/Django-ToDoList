@@ -3,8 +3,8 @@ A simple To Do List made with Django
 
 # About the project
 Them aim of this project is to develope a beginner and simple To Do List using Django
-with some basic funcionalitys to study the uses of the Django Framework.
-Some of the funcionalitys added to this project were:
+with some basic funcionality to study the uses of the Django Framework.
+Some of the features added to this project were:
 - Default and Custom Django Forms
 - Handleing Post Requests
 - Adding data to the Sqlite database
@@ -16,11 +16,11 @@ Some of the funcionalitys added to this project were:
 
 # Description
 - The User can login or create an account by going to the /login page or /register page. Once he has an account he is gonna be able to create his own to do list by going to the Create page and create a new to do list.
-The users can check their to do lists by going to the View page where they are gonna be able to click in any of the lists and be redirect to that specific
-list page with their specifics tasks and add tasks to it also they can mark the checkbox to the completed tasks and save it. The user can hit /logout to do de logout and be redirected to the home page.
+The users can check their to do lists by going to the View page where they are gonna be able to click in any of the lists and be redirected to that specific
+list page with its specifics tasks and add new tasks to it also they can mark the checkbox to the completed tasks and save them. The user can hit /logout to logout and be redirected to the home page.
 
 # Disclaimer
-- The user can not see others to do list's by changing id.
+- User cannot see other people's lists by changing the id.
 - Users can not create or see a to do list if they are not logged in.
 
 # Future Improviments
