@@ -1,4 +1,4 @@
-from secret import *
+from .secret import *
 
 from pathlib import Path
 
