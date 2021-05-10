@@ -1,5 +1,5 @@
-# ToDoList
-A simple To Do List made with Django
+# To do List
+A simple To do List made with Django
 
 # About the project
 Them aim of this project is to develope a beginner and simple To Do List using Django
@@ -31,25 +31,25 @@ list page with its specifics tasks and add new tasks to it also they can mark th
 # Layout
 **Login Page**
 
-![Login Page](https://github.com/Brunotorres15/ToDoList/blob/main/assets/login.png)
+![Login Page](https://github.com/Brunotorres15/Django-ToDoList/blob/main/assets/login.png)
 
 **Register Page**
 
-![Register Page](https://github.com/Brunotorres15/ToDoList/blob/main/assets/register.png)
+![Register Page](https://github.com/Brunotorres15/Django-ToDoList/blob/main/assets/register.png)
 
 **Home Page**
 
-![Home Page](https://github.com/Brunotorres15/ToDoList/blob/main/assets/home.png)
+![Home Page](https://github.com/Brunotorres15/Django-ToDoList/blob/main/assets/home.png)
 
 **Create To Do List Page**
 
-![Create Page](https://github.com/Brunotorres15/ToDoList/blob/main/assets/create.png)
+![Create Page](https://github.com/Brunotorres15/Django-ToDoList/blob/main/assets/create.png)
 
 **View To Do Lists Page**
 
-![To Do Lists Page](https://github.com/Brunotorres15/ToDoList/blob/main/assets/todolists.png)
+![To Do Lists Page](https://github.com/Brunotorres15/Django-ToDoList/blob/main/assets/todolists.png)
 
 **View Tasks Page**
 
-![Tasks Page](https://github.com/Brunotorres15/ToDoList/blob/main/assets/tasks.png)
+![Tasks Page](https://github.com/Brunotorres15/Django-ToDoList/blob/main/assets/tasks.png)
 
