@@ -8,7 +8,7 @@ Some of the features added to this project were:
 - Default and Custom Django Forms
 - Handleing Post Requests
 - Adding data to the Sqlite database
-- Using Tamplates and Custom HTML
+- Using Templates and Custom HTML
 - Using Bootstrap
 - Creating Users
 - User Registration, Login and Logout.
